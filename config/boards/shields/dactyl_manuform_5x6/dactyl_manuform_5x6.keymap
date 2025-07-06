@@ -19,7 +19,7 @@
                 &mo LWR &kp A  &kp S  &kp D  &kp F  &kp G               &kp H  &kp J  &kp K     &kp L   &kp SEMI &kp SQT
                 &kp LSHFT &none  &kp Z  &kp X  &kp C  &kp V               &kp B  &kp N  &kp M &kp COMMA &kp DOT &kp BSLH
                                  &kp LBKT &kp RBKT                                      &kp PLUS &kp EQUAL
-                                            &kp LEFT_GUI  &kp BSPC            &kp SPACE  &kp RSE
+                                            &kp LEFT_GUI  &kp BSPC            &kp SPACE  &kp ENTER
                                             &kp N1   &kp HOME             &bt BT_SEL 1  &bt BT_SEL 2
                                             &kp BSPC &kp GRAVE            &bt BT_CLR &bt BT_SEL 0
             >;
