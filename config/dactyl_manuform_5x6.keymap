@@ -68,7 +68,7 @@
         compatible = "zmk,combos";
         combo_enter {
             timeout-ms = <500>;
-            key-positions = <32 33 34>;
+            key-positions = <31 32 33>;
             bindings = <&kp ENTER>;
         };
     };   
