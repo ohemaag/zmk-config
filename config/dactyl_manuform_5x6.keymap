@@ -68,23 +68,23 @@
         compatible = "zmk,combos";
         combo_enter_right {
             timeout-ms = <500>;
-            key-positions = <31 32 33>;
+            key-positions = <43 44 45>;
             bindings = <&kp ENTER>;
         };
         combo_enter_left {
             timeout-ms = <500>;
-            key-positions = <26 27 28>;
+            key-positions = <38 39 40>;
             bindings = <&kp ENTER>;
         };
         combo_shift_right {
             timeout-ms = <500>;
-            key-positions = <27 28>;
-            bindings = <&kp LSHFT>;
+            key-positions = <43 44>;
+            bindings = <&kp RSHFT>;
         };
         combo_shift_left {
             timeout-ms = <500>;
-            key-positions = <31 32>;
-            bindings = <&kp RSHFT>;
+            key-positions = <39 40>;
+            bindings = <&kp LSHFT>;
         };
     };   
 };
